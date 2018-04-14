@@ -1,0 +1,5 @@
+
+*.xls
+/web/files/*
+/.idea/*
+/*/__pycache__/*
