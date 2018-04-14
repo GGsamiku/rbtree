@@ -298,7 +298,7 @@ class RBTree:
 
     def pre_delete_node(self, node):
         '''
-        删除前检查，反回最终要删除的点
+        删除前检查，返回最终要删除的点
         :param node:
         :return:
         '''
